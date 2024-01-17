@@ -4,4 +4,7 @@
     <option name="sdkName" value="My_38" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="My_38" project-jdk-type="Python SDK" />
+  <component name="PyCharmProfessionalAdvertiser">
+    <option name="shown" value="true" />
+  </component>
 </project>
