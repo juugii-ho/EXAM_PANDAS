@@ -10,7 +10,7 @@
 
  | **폴더** | **날짜** | **내용** | **post**|
  |:-----:|:-----:|:-----:|:------:|
- |DAY01 | 24.01.10. | read, write, with, copy, method, module_package,python-class, panadas | [velog link]( https://velog.io/@bbalgang/110-Pandas-1일차-w7piieir ) |
+ |DAY01 | 24.01.10. | read, write, with, copy, method, module_package,python-class, pandas | [velog link]( https://velog.io/@bbalgang/110-Pandas-1일차-w7piieir ) |
  |DAY02 | 24.01.11. | Jupyter Notebook, Series, DataFrame | [velog link]( https://velog.io/@bbalgang/111-Pandas-2일차 ) |  
 |DAY03 | 24.01.12. | DataFrame - add, index, sort | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
 |DAY04 | 24.01.15. | CSV, Html, Excel to DF, MPG 데이터, 전국 전입전출, 남북전력량 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
