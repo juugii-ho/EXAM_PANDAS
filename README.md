@@ -20,7 +20,7 @@
 <br>
 <br>
 
-# [교육 내용](https://velog.io/@bbalgang/series/기록)
+# [교육 내용](https://velog.io/@bbalgang/series/기록-Pandas)
 
  | **폴더** | **날짜** | **내용** | **post**|
  |:-----:|:-----:|:-----:|:------:|
