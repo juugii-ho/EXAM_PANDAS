@@ -10,15 +10,15 @@
 
  | **폴더** | **날짜** | **내용** | **post**|
  |:-----:|:-----:|:-----:|:------:|
- |DAY01 | 24.01.10. | read, write, with, copy, method, module_package,python-class, pandas | [velog link]( https://velog.io/@bbalgang/110-Pandas-1일차-w7piieir ) |
- |DAY02 | 24.01.11. | Jupyter Notebook, Series, DataFrame | [velog link]( https://velog.io/@bbalgang/111-Pandas-2일차 ) |  
-|DAY03 | 24.01.12. | DataFrame - add, index, sort | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
-|DAY04 | 24.01.15. | CSV, Html, Excel to DF, MPG 데이터, 전국 전입전출, 남북전력량 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
-|DAY05 | 24.01.16. | duplicate, filtering, missing_value, text_data, 타이타닉 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
-|DAY06 | 24.01.17. | 코딩테스트, 시각화 맛보기 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
-|DAY07 | 24.01.18. | Python Class | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
-|DAY08 | 24.01.19. | Scatter Plot, Pie Chart | [velog link]( https://velog.io/@bbalgang/119-MATPLOTLIB-3일차 ) | 
-|DAY09 | 24.01.22. | accessor, concat/join/merge | [notion link]( https://humorous-potassium-d74.notion.site/1-22-MATPLOTLIB-4-1e887d28c8e444f49da8f611aca52804 ) |       
+ |DAY01 | 24. 1. 10. | read, write, with, copy, method, module_package,python-class, pandas | [velog link]( https://velog.io/@bbalgang/110-Pandas-1일차-w7piieir ) |
+ |DAY02 | 24. 1. 11. | Jupyter Notebook, Series, DataFrame | [velog link]( https://velog.io/@bbalgang/111-Pandas-2일차 ) |  
+|DAY03 | 24. 1. 12. | DataFrame - add, index, sort | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
+|DAY04 | 24. 1. 15. | CSV, Html, Excel to DF, MPG 데이터, 전국 전입전출, 남북전력량 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
+|DAY05 | 24. 1. 16. | duplicate, filtering, missing_value, text_data, 타이타닉 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
+|DAY06 | 24. 1. 17. | 코딩테스트, 시각화 맛보기 | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
+|DAY07 | 24. 1. 18. | Python Class | [velog link]( https://velog.io/@bbalgang/118-MATPLOTLIB-2일차 ) | 
+|DAY08 | 24. 1. 19. | Scatter Plot, Pie Chart | [velog link]( https://velog.io/@bbalgang/119-MATPLOTLIB-3일차 ) | 
+|DAY09 | 24. 1. 22. | accessor, concat/join/merge | [notion link]( https://humorous-potassium-d74.notion.site/1-22-MATPLOTLIB-4-1e887d28c8e444f49da8f611aca52804 ) |       
 
 
 <br>
